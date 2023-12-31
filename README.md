@@ -1,5 +1,6 @@
-# Extension-Idle
+# Extension-Auto-Send
 
-Adds "idle prompting" after the user has been idle for some time to organically continue the conversation.
+Adds "auto send" when the user entered some text it will be automatically sent after some time.
 
-Idea and implementation by [city-unit](https://github.com/city-unit).
+Heavily based on Idle by [city-unit](https://github.com/city-unit).
+Repurposing by [randoentity](https://github.com/randoentity).
